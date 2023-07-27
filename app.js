@@ -14,7 +14,7 @@ const routes = [
     view: () => conteiner.innerHTML = homeContent
   },
   {
-    path: '#about#1',
+    path: '#about',
     view: () => conteiner.innerHTML = aboutContent
   },
 ];
